@@ -20,6 +20,10 @@ body {
     margin: 0 auto;
 }
 
+.text-white{
+    color: white;
+}
+
 /* navbar style */
 nav {
     display: flex;
@@ -417,7 +421,7 @@ input::placeholder {
     padding-top:15px;
 }
 .testimonial_info h6{
-    font-size: 20px;
+    font-size: 16px;
     color:#fff;
 }
 .testimonial_info p::before{
@@ -440,7 +444,7 @@ input::placeholder {
 .testimonial_img{
     background-color: #FFC86B;
     border-radius: 50px 0px 0px 50px;
-    height: 350px;
+    height: 423px;
 }
 .testimonial_img img{
     position: relative;
